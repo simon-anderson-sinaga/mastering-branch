@@ -18,6 +18,10 @@ Feat 5 :
 	O = O
 	P = P
 
+Feat 6 :
+	x = X
+	Z = Z
+
 Feat 7 :
 	M = M
 	N = N
