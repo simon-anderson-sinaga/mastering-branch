@@ -1,3 +1,7 @@
 Feat 7 :
 	M = M
 	N = N
+
+Feat 8 :
+	E = E
+	D = D
