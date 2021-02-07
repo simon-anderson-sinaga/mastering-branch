@@ -17,3 +17,11 @@ Feature 4 :
 Feat 5 :
 	O = O
 	P = P
+
+Feat 7 :
+	M = M
+	N = N
+
+Feat 8 :
+	E = E
+	D = D
