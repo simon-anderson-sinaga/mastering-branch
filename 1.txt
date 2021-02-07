@@ -16,14 +16,14 @@ Feature 4 :
 
 Feat 5 :
 	O = O
-	P = P
+	Y = Y
 
 Feat 6 :
 	x = X
 	Z = Z
 
 Feat 7 :
-	M = M
+	Y = Y
 	N = N
 
 Feat 8 :
