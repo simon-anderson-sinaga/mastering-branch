@@ -8,7 +8,7 @@ Feat 2 :
 
 Feat 3 :
 	E = E
-	F = F
+	1 = 1
 
 Feature 4 :
 	G = G
