@@ -27,8 +27,8 @@ Feat 7 :
 	N = N
 
 Feat 8 :
-	E = E
-	D = D
+	F = F
+	T = T
 
 
 Feat 10 :
