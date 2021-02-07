@@ -5,3 +5,7 @@ Feat 1 :
 Feat 2 :
 	C = C
 	D = D
+
+Feat 3 :
+	E = E
+	F = F
