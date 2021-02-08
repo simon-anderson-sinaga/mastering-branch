@@ -5,3 +5,7 @@ Feat 5 :
 Feat 6 :
 	x = X
 	Z = Z
+
+Feat 1 :
+	A = A
+	B = B
